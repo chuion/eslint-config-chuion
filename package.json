@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-chuion",
+  "version": "1.0.0",
+  "description": "ESLint config for Chuion FE team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/chuion/eslint-config-chuion.git"
+  },
+  "keywords": [
+    "eslint",
+    "chuion"
+  ],
+  "author": "chuion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitee.com/chuion/eslint-config-chuion/issues"
+  },
+  "homepage": "https://gitee.com/chuion/eslint-config-chuion#readme"
+}
